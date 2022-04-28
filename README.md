@@ -123,4 +123,4 @@ analysis.print_kwic(DF, 'delete')
 
 If you found the data or code in this repository useful and are reusing it, I would appreciate it if you mentioned the 
 source as 
-[Zenodo DOI](https://doi.org/10.5281/zenodo.6501966) (see the "Cite as" section on our Zenodo page for more details).
+[Zenodo DOI](https://doi.org/10.5281/zenodo.6501966) (see the "Cite as" section on my Zenodo page for more details).
