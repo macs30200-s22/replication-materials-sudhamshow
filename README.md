@@ -56,15 +56,16 @@ in a more general setting in 11/18 as opposed to using it around 'conservatives'
 
 KWIC 18/11:
 
-<img src="findings/1811_consv_kwic.png" width="400" height="250">
+<img src="findings/1811_consv_kwic.png" width="500" height="350">
 
 KWIC 18/12:
 
-<img src="findings/1812_consv_kwic.png" width="400" height="250">
+<img src="findings/1812_consv_kwic.png" width="500" height="350">
 
 ## Relevance to Research Question
 The initial analysis points to discernible differences in the use of language (both syntactic and semantic). With 
-this initial proof of change in language discourse, I plan to use more sophisticated techniques to study the shift 
+this initial evidence of change in language discourse, I plan to use more sophisticated techniques to study the 
+shift 
 in language and behaviour (activity on reddit) with mass-moderation events as a treatment.
 
 ## Supplemental Code for replication
@@ -78,21 +79,47 @@ terminal (with the `requirements.txt` file included in this repository):
 pip install -r requirements.txt
 ```
 
-Then, you can import the `analysis` module located in this repository to reproduce the analysis in the sections above:
+One can import the `analysis` module located in this repository to reproduce the analysis in the sections above:
 
+
+To plot the count of moderation events use the `plot_mod_count` function in the `analysis` module to plot the count 
+of removals of popular posts in already collected data (check [/data/count_mod.py](/data/count_mod.py) to collect 
+counts for new data. The `plot_mod_count` 
+function will reproduce the line charts in the initial finding section by taking the name of the subreddit as an 
+input parameter.
+
+The entire data is huge (several Gigabytes) and thus is not feasible to shared here. A subset of data along with 
+preconstructed data frames with comments processed (tokenised) for analysis is available [here](https://drive.google.com/drive/folders/1XD4H8EmzjIgxKXmQ1bilG0uV3icnbg_A?usp=sharing).
+For analysis on more collected data, please contact the author.
+
+For e.g,
+```python
+import analysis
+
+analysis.plot_mod_count('Conservative')
+```
+will plot the moderation counts for r/Conservative.
+
+To plot wordclouds for a given dataframe, load pickled object (downloaded from the data repository in the link 
+provided previously) 
+into dataframe and use the `plot_word_cloud` function 
+as decribed below:
 
 ```python
 import analysis
+import pandas
+DF = pandas.read_pickle("path-to-pickled-object/Consv_1812.pkl")
+analysis.plot_word_cloud(DF)
 ```
 
-You can then use the `process_data` function in the `analysis` module to process the data and get it ready to analyze. The `plot` function will reproduce Figure 1 from the (hypothetical) publication.
-
-
+To find key word in context use the `print_kwic` function with the dataframe loaded in the previous step along with 
+a keyword to print the contexts the keyword is most used in:
 ```python
-df = analysis.process_data('data.csv')
-analysis.plot(df)
+import analysis
+import pandas
+DF = pandas.read_pickle("path-to-pickled-object/Consv_1812.pkl")
+analysis.print_kwic(DF, 'delete')
 ```
-
 
 
 ![png](README_files/output_3_0.png)
