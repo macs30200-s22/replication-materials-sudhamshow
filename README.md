@@ -47,7 +47,7 @@ other months in the vicinity.
 
 Wordclouds for most distinguishing words in r/Conservative for months 11/18, 12/18 and 01/19 in the same order -
 <img src="findings/Consv1.png" width="250" height="250"> <img src="findings/Consv2.png" width="250" height="250"> 
-<img src="findings/Consv3.png" width="250" height="250">
+<img src="findings/Consv2.png" width="250" height="250">
 
 
 Further semantic analysis (Key Word in Context - KWIC) reveal that words like 'ban', 'censor' and 'delete' were used 
