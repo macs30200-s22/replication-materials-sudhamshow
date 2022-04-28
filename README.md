@@ -55,9 +55,11 @@ in a more general setting in 11/18 as opposed to using it around 'conservatives'
 12/2018 when the moderation rose (awareness of conservatives being censored).
 
 KWIC 18/11:
+
 <img src="findings/1811_consv_kwic.png" width="400" height="250">
 
 KWIC 18/12:
+
 <img src="findings/1812_consv_kwic.png" width="400" height="250">
 
 ## Relevance to Research Question
