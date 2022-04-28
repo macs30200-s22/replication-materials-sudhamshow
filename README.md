@@ -67,7 +67,7 @@ in language and behaviour (activity on reddit) with mass-moderation events as a 
 
 ## Supplemental Code for replication
 
-The code and data in this repository is an example of a reproducible research workflow for MACS 30200 "Perspectives on Computational Research" at the University of Chicago.
+The code and data in this repository is provided for replication of initial findings of the final project for MACS 30200 "Perspectives on Computational Research" at the University of Chicago.
 
 The code is written in Python 3.7.11 and all of its dependencies can be installed by running the following in the 
 terminal (with the `requirements.txt` file included in this repository):
@@ -76,7 +76,7 @@ terminal (with the `requirements.txt` file included in this repository):
 pip install -r requirements.txt
 ```
 
-Then, you can import the `analysis` module located in this repository to reproduce the analysis in the (hypothetical) publication that this code supplements (in a Jupyter Notebook, like README.ipynb in this repository, or in any other Python script):
+Then, you can import the `analysis` module located in this repository to reproduce the analysis in the sections above:
 
 
 ```python
