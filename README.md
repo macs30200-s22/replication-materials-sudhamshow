@@ -46,17 +46,19 @@ censorship (like 'delete', 'ban', 'removed', etc.) during 12/18 when content mod
 other months in the vicinity.
 
 Wordclouds for most distinguishing words in r/Conservative for months 11/18, 12/18 and 01/19 in the same order -
-![png](findings/Consv1.png) ![png](findings/Consv2.png) ![png](findings/Consv3.png)
+<img src="findings/Consv1.png" width="250" height="250"> <img src="findings/Consv2.png" width="250" height="250"> 
+<img src="findings/Consv3.png" width="250" height="250">
+
 
 Further semantic analysis (Key Word in Context - KWIC) reveal that words like 'ban', 'censor' and 'delete' were used 
 in a more general setting in 11/18 as opposed to using it around 'conservatives' or 'republicans' as the subject in 
 12/2018 when the moderation rose (awareness of conservatives being censored).
 
 KWIC 18/11:
-![png](findings/1811_consv_kwic.png)
+<img src="findings/1811_consv_kwic.png" width="400" height="250">
 
 KWIC 18/12:
-![png](findings/1812_consv_kwic.png)
+<img src="findings/1812_consv_kwic.png" width="400" height="250">
 
 ## Relevance to Research Question
 The initial analysis points to discernible differences in the use of language (both syntactic and semantic). With 
