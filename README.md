@@ -121,11 +121,6 @@ DF = pandas.read_pickle("path-to-pickled-object/Consv_1812.pkl")
 analysis.print_kwic(DF, 'delete')
 ```
 
-
-![png](README_files/output_3_0.png)
-
-
-
-Alternatively, to replicate the analysis and produce all of the figures and quantitative analyses from the (hypothetical) publication that this code supplements, build and run the `Dockerfile` included in this repository via the instructions in the file).
-
-If you use this repository for a scientific publication, we would appreciate it if you cited the [Zenodo DOI](https://doi.org/10.5281/zenodo.6429151) (see the "Cite as" section on our Zenodo page for more details).
+If you found the data or code in this repository useful and are reusing it, I would appreciate it if you mentioned the 
+source as 
+[Zenodo DOI](https://doi.org/10.5281/zenodo.6429151) (see the "Cite as" section on our Zenodo page for more details).
