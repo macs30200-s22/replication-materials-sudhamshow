@@ -1,5 +1,5 @@
 # replication-materials-sudhamshow
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6429151.svg)](https://doi.org/10.5281/zenodo.6429151)
+[![DOI](https://zenodo.org/badge/483592109.svg)](https://zenodo.org/badge/latestdoi/483592109)
 
 ## Research Question
 Research question: Is there a significant shift in the discourse of language and user interaction on Reddit as a consequence of a mass content-moderation event?
@@ -123,4 +123,4 @@ analysis.print_kwic(DF, 'delete')
 
 If you found the data or code in this repository useful and are reusing it, I would appreciate it if you mentioned the 
 source as 
-[Zenodo DOI](https://doi.org/10.5281/zenodo.6429151) (see the "Cite as" section on our Zenodo page for more details).
+[Zenodo DOI](https://doi.org/10.5281/zenodo.6501966) (see the "Cite as" section on our Zenodo page for more details).
