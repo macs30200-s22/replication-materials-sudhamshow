@@ -1,0 +1,381 @@
+file, mod_num
+2016-01_Conservative.jsonl.xz, 0 
+2016-01_KotakuInAction.jsonl.xz, 0 
+2016-01_MensRights.jsonl.xz, 0 
+2016-01_SandersForPresident.jsonl.xz, 17 
+2016-01_The_Donald.jsonl.xz, 0 
+2016-01_conspiracy.jsonl.xz, 2 
+2016-01_democrats.jsonl.xz, 0 
+2016-01_politics.jsonl.xz, 11 
+
+2016-02_Conservative.jsonl, 0 
+2016-02_KotakuInAction.jsonl, 0 
+2016-02_MensRights.jsonl, 0 
+2016-02_SandersForPresident.jsonl, 63 
+2016-02_The_Donald.jsonl, 10 
+2016-02_conspiracy.jsonl, 0 
+2016-02_democrats.jsonl, 0 
+2016-02_politics.jsonl, 23 
+
+2016-03_Conservative.jsonl, 0 
+2016-03_KotakuInAction.jsonl, 0 
+2016-03_MensRights.jsonl, 0 
+2016-03_SandersForPresident.jsonl, 115 
+2016-03_The_Donald.jsonl, 47 
+2016-03_conspiracy.jsonl, 0 
+2016-03_democrats.jsonl, 0 
+2016-03_politics.jsonl, 54 
+
+2016-04_Conservative.jsonl, 0 
+2016-04_KotakuInAction.jsonl, 0 
+2016-04_MensRights.jsonl, 0 
+2016-04_SandersForPresident.jsonl, 87 
+2016-04_The_Donald.jsonl, 50 
+2016-04_conspiracy.jsonl, 0 
+2016-04_democrats.jsonl, 0 
+2016-04_politics.jsonl, 53 
+
+2016-05_Conservative.jsonl.xz, 0 
+2016-05_KotakuInAction.jsonl.xz, 0 
+2016-05_MensRights.jsonl.xz, 0 
+2016-05_SandersForPresident.jsonl.xz, 35 
+2016-05_The_Donald.jsonl.xz, 55 
+2016-05_conspiracy.jsonl.xz, 0 
+2016-05_democrats.jsonl.xz, 0 
+2016-05_politics.jsonl.xz, 80 
+
+2016-06_Conservative.jsonl.xz, 0 
+2016-06_KotakuInAction.jsonl.xz, 0 
+2016-06_MensRights.jsonl.xz, 0 
+2016-06_SandersForPresident.jsonl.xz, 25 
+2016-06_The_Donald.jsonl.xz, 26 
+2016-06_conspiracy.jsonl.xz, 0 
+2016-06_democrats.jsonl.xz, 0 
+2016-06_politics.jsonl.xz, 58 
+
+2016-07_ChapoTrapHouse.jsonl.xz, 0 
+2016-07_Conservative.jsonl.xz, 0 
+2016-07_KotakuInAction.jsonl.xz, 0 
+2016-07_MensRights.jsonl.xz, 0 
+2016-07_SandersForPresident.jsonl.xz, 34 
+2016-07_The_Donald.jsonl.xz, 50 
+2016-07_conspiracy.jsonl.xz, 0 
+2016-07_democrats.jsonl.xz, 0 
+2016-07_politics.jsonl.xz, 65 
+
+2016-08_ChapoTrapHouse.jsonl, 0 
+2016-08_Conservative.jsonl, 0 
+2016-08_KotakuInAction.jsonl, 0 
+2016-08_MensRights.jsonl, 0 
+2016-08_SandersForPresident.jsonl, 0 
+2016-08_The_Donald.jsonl, 30 
+2016-08_conspiracy.jsonl, 1 
+2016-08_democrats.jsonl, 0 
+2016-08_politics.jsonl, 49 
+
+2016-09_ChapoTrapHouse.jsonl, 0 
+2016-09_Conservative.jsonl, 0 
+2016-09_KotakuInAction.jsonl, 0 
+2016-09_MensRights.jsonl, 0 
+2016-09_SandersForPresident.jsonl, 0 
+2016-09_The_Donald.jsonl, 50 
+2016-09_conspiracy.jsonl, 1 
+2016-09_democrats.jsonl, 0 
+2016-09_politics.jsonl, 79 
+
+2016-10_ChapoTrapHouse.jsonl, 0 
+2016-10_Conservative.jsonl, 0 
+2016-10_KotakuInAction.jsonl, 1 
+2016-10_MensRights.jsonl, 1 
+2016-10_SandersForPresident.jsonl, 0 
+2016-10_The_Donald.jsonl, 81 
+2016-10_conspiracy.jsonl, 1 
+2016-10_democrats.jsonl, 0 
+2016-10_politics.jsonl, 101 
+
+2016-11_ChapoTrapHouse.jsonl, 0 
+2016-11_Conservative.jsonl, 2 
+2016-11_KotakuInAction.jsonl, 0 
+2016-11_MensRights.jsonl, 0 
+2016-11_SandersForPresident.jsonl, 1 
+2016-11_The_Donald.jsonl, 222 
+2016-11_conspiracy.jsonl, 5 
+2016-11_democrats.jsonl, 0 
+2016-11_politics.jsonl, 142 
+
+2016-12_ChapoTrapHouse.jsonl.xz, 0 
+2016-12_Conservative.jsonl, 2 
+2016-12_KotakuInAction.jsonl, 0 
+2016-12_MensRights.jsonl, 0 
+2016-12_SandersForPresident.jsonl.xz, 0 
+2016-12_The_Donald.jsonl, 147 
+2016-12_conspiracy.jsonl.xz, 4 
+2016-12_democrats.jsonl, 0 
+2016-12_politics.jsonl, 117 
+
+2017-01_ChapoTrapHouse.jsonl.xz, 0 
+2017-01_Conservative.jsonl.xz, 12 
+2017-01_KotakuInAction.jsonl.xz, 0 
+2017-01_MensRights.jsonl.xz, 0 
+2017-01_SandersForPresident.jsonl.xz, 1 
+2017-01_The_Donald.jsonl.xz, 248 
+2017-01_conspiracy.jsonl.xz, 18 
+2017-01_democrats.jsonl.xz, 0 
+2017-01_politics.jsonl.xz, 145 
+
+2017-02_ChapoTrapHouse.jsonl.xz, 0 
+2017-02_Conservative.jsonl.xz, 6 
+2017-02_KotakuInAction.jsonl.xz, 1 
+2017-02_MensRights.jsonl.xz, 1 
+2017-02_SandersForPresident.jsonl.xz, 1 
+2017-02_The_Donald.jsonl.xz, 271 
+2017-02_conspiracy.jsonl.xz, 21 
+2017-02_democrats.jsonl.xz, 0 
+2017-02_politics.jsonl.xz, 90 
+
+2017-03_ChapoTrapHouse.jsonl.xz, 0 
+2017-03_Conservative.jsonl.xz, 3 
+2017-03_KotakuInAction.jsonl.xz, 1 
+2017-03_MensRights.jsonl.xz, 0 
+2017-03_SandersForPresident.jsonl.xz, 0 
+2017-03_The_Donald.jsonl.xz, 159 
+2017-03_conspiracy.jsonl.xz, 16 
+2017-03_democrats.jsonl.xz, 0 
+2017-03_politics.jsonl.xz, 86 
+
+2017-04_ChapoTrapHouse.jsonl, 0 
+2017-04_Conservative.jsonl, 15 
+2017-04_KotakuInAction.jsonl, 0 
+2017-04_MensRights.jsonl, 1 
+2017-04_SandersForPresident.jsonl, 0 
+2017-04_The_Donald.jsonl, 149 
+2017-04_conspiracy.jsonl, 5 
+2017-04_democrats.jsonl, 0 
+2017-04_politics.jsonl, 66 
+
+2017-05_ChapoTrapHouse.jsonl.xz, 0 
+2017-05_Conservative.jsonl.xz, 20 
+2017-05_KotakuInAction.jsonl.xz, 0 
+2017-05_MensRights.jsonl.xz, 1 
+2017-05_SandersForPresident.jsonl.xz, 13 
+2017-05_The_Donald.jsonl.xz, 130 
+2017-05_conspiracy.jsonl.xz, 7 
+2017-05_democrats.jsonl.xz, 1 
+2017-05_politics.jsonl.xz, 97 
+
+2017-06_ChapoTrapHouse.jsonl.xz, 0 
+2017-06_Conservative.jsonl.xz, 14 
+2017-06_KotakuInAction.jsonl.xz, 0 
+2017-06_MensRights.jsonl.xz, 0 
+2017-06_SandersForPresident.jsonl.xz, 1 
+2017-06_The_Donald.jsonl.xz, 103 
+2017-06_conspiracy.jsonl.xz, 10 
+2017-06_democrats.jsonl.xz, 0 
+2017-06_politics.jsonl.xz, 96 
+
+2017-07_ChapoTrapHouse.jsonl, 0 
+2017-07_Conservative.jsonl, 20 
+2017-07_KotakuInAction.jsonl, 0 
+2017-07_MensRights.jsonl, 0 
+2017-07_SandersForPresident.jsonl, 2 
+2017-07_The_Donald.jsonl, 57 
+2017-07_conspiracy.jsonl, 20 
+2017-07_democrats.jsonl, 0 
+2017-07_politics.jsonl, 104 
+
+2017-08_ChapoTrapHouse.jsonl, 0 
+2017-08_Conservative.jsonl, 14 
+2017-08_KotakuInAction.jsonl, 0 
+2017-08_MensRights.jsonl, 0 
+2017-08_SandersForPresident.jsonl, 0 
+2017-08_The_Donald.jsonl, 86 
+2017-08_conspiracy.jsonl, 6 
+2017-08_democrats.jsonl, 6 
+2017-08_politics.jsonl, 96 
+
+2017-09_ChapoTrapHouse.jsonl, 1 
+2017-09_Conservative.jsonl, 23 
+2017-09_KotakuInAction.jsonl, 0 
+2017-09_MensRights.jsonl, 0 
+2017-09_SandersForPresident.jsonl, 15 
+2017-09_The_Donald.jsonl, 69 
+2017-09_conspiracy.jsonl, 9 
+2017-09_democrats.jsonl, 0 
+2017-09_politics.jsonl, 98 
+
+2017-10_ChapoTrapHouse.jsonl, 2 
+2017-10_Conservative.jsonl, 26 
+2017-10_KotakuInAction.jsonl, 2 
+2017-10_MensRights.jsonl, 0 
+2017-10_SandersForPresident.jsonl, 5 
+2017-10_The_Donald.jsonl, 96 
+2017-10_conspiracy.jsonl, 23 
+2017-10_democrats.jsonl, 0 
+2017-10_politics.jsonl, 88 
+
+2017-11_ChapoTrapHouse.jsonl.xz, 1 
+2017-11_Conservative.jsonl.xz, 5 
+2017-11_KotakuInAction.jsonl.xz, 0 
+2017-11_MensRights.jsonl.xz, 2 
+2017-11_SandersForPresident.jsonl.xz, 1 
+2017-11_The_Donald.jsonl.xz, 136 
+2017-11_conspiracy.jsonl.xz, 18 
+2017-11_democrats.jsonl.xz, 1 
+2017-11_politics.jsonl.xz, 109 
+
+2017-12_ChapoTrapHouse.jsonl.xz, 3 
+2017-12_Conservative.jsonl.xz, 5 
+2017-12_KotakuInAction.jsonl.xz, 0 
+2017-12_MensRights.jsonl.xz, 0 
+2017-12_SandersForPresident.jsonl.xz, 0 
+2017-12_The_Donald.jsonl.xz, 139 
+2017-12_conspiracy.jsonl.xz, 10 
+2017-12_democrats.jsonl.xz, 3 
+2017-12_politics.jsonl.xz, 92 
+
+2018-01_ChapoTrapHouse.jsonl.xz, 0 
+2018-01_Conservative.jsonl.xz, 6 
+2018-01_KotakuInAction.jsonl.xz, 0 
+2018-01_MensRights.jsonl.xz, 0 
+2018-01_SandersForPresident.jsonl.xz, 0 
+2018-01_The_Donald.jsonl.xz, 88 
+2018-01_conspiracy.jsonl.xz, 6 
+2018-01_democrats.jsonl.xz, 0 
+2018-01_greatawakening.jsonl.xz, 0 
+2018-01_politics.jsonl.xz, 126 
+
+2018-02_ChapoTrapHouse.jsonl.xz, 5 
+2018-02_Conservative.jsonl.xz, 14 
+2018-02_KotakuInAction.jsonl.xz, 0 
+2018-02_MensRights.jsonl.xz, 1 
+2018-02_SandersForPresident.jsonl.xz, 0 
+2018-02_The_Donald.jsonl.xz, 107 
+2018-02_conspiracy.jsonl.xz, 8 
+2018-02_democrats.jsonl.xz, 0 
+2018-02_greatawakening.jsonl.xz, 0 
+2018-02_politics.jsonl.xz, 83 
+
+2018-03_ChapoTrapHouse.jsonl, 0 
+2018-03_Conservative.jsonl, 13 
+2018-03_KotakuInAction.jsonl, 1 
+2018-03_MensRights.jsonl, 0 
+2018-03_SandersForPresident.jsonl, 0 
+2018-03_The_Donald.jsonl, 121 
+2018-03_conspiracy.jsonl, 12 
+2018-03_democrats.jsonl, 1 
+2018-03_greatawakening.jsonl, 1 
+2018-03_politics.jsonl, 159 
+
+2018-04_ChapoTrapHouse.jsonl.xz, 3 
+2018-04_Conservative.jsonl.xz, 11 
+2018-04_KotakuInAction.jsonl.xz, 0 
+2018-04_MensRights.jsonl.xz, 0 
+2018-04_SandersForPresident.jsonl.xz, 0 
+2018-04_The_Donald.jsonl.xz, 74 
+2018-04_conspiracy.jsonl.xz, 6 
+2018-04_democrats.jsonl.xz, 0 
+2018-04_greatawakening.jsonl.xz, 1 
+2018-04_politics.jsonl.xz, 112 
+
+2018-05_ChapoTrapHouse.jsonl.xz, 1 
+2018-05_Conservative.jsonl.xz, 10 
+2018-05_KotakuInAction.jsonl.xz, 0 
+2018-05_MensRights.jsonl.xz, 2 
+2018-05_SandersForPresident.jsonl.xz, 0 
+2018-05_The_Donald.jsonl.xz, 67 
+2018-05_conspiracy.jsonl.xz, 3 
+2018-05_democrats.jsonl.xz, 0 
+2018-05_greatawakening.jsonl.xz, 2 
+2018-05_politics.jsonl.xz, 68 
+
+2018-06_ChapoTrapHouse.jsonl, 4 
+2018-06_Conservative.jsonl, 13 
+2018-06_KotakuInAction.jsonl, 0 
+2018-06_MensRights.jsonl, 2 
+2018-06_SandersForPresident.jsonl, 0 
+2018-06_The_Donald.jsonl, 96 
+2018-06_conspiracy.jsonl, 7 
+2018-06_democrats.jsonl, 0 
+2018-06_greatawakening.jsonl, 3 
+2018-06_politics.jsonl, 140 
+
+2018-07_ChapoTrapHouse.jsonl.xz, 2 
+2018-07_Conservative.jsonl.xz, 14 
+2018-07_KotakuInAction.jsonl.xz, 0 
+2018-07_MensRights.jsonl.xz, 0 
+2018-07_SandersForPresident.jsonl.xz, 0 
+2018-07_The_Donald.jsonl.xz, 84 
+2018-07_conspiracy.jsonl.xz, 8 
+2018-07_democrats.jsonl.xz, 0 
+2018-07_greatawakening.jsonl.xz, 11 
+2018-07_politics.jsonl.xz, 133 
+
+2018-08_ChapoTrapHouse.jsonl, 3 
+2018-08_Conservative.jsonl, 9 
+2018-08_KotakuInAction.jsonl, 1 
+2018-08_MensRights.jsonl, 0 
+2018-08_SandersForPresident.jsonl, 0 
+2018-08_The_Donald.jsonl, 85 
+2018-08_conspiracy.jsonl, 4 
+2018-08_democrats.jsonl, 6 
+2018-08_politics.jsonl, 150 
+
+2018-09_ChapoTrapHouse.jsonl.xz, 4 
+2018-09_Conservative.jsonl.xz, 25 
+2018-09_KotakuInAction.jsonl.xz, 5 
+2018-09_MensRights.jsonl.xz, 0 
+2018-09_SandersForPresident.jsonl.xz, 0 
+2018-09_The_Donald.jsonl.xz, 74 
+2018-09_conspiracy.jsonl.xz, 17 
+2018-09_democrats.jsonl.xz, 0 
+2018-09_politics.jsonl.xz, 210 
+
+2018-10_ChapoTrapHouse.jsonl, 21 
+2018-10_Conservative.jsonl.xz, 17 
+2018-10_KotakuInAction.jsonl.xz, 0 
+2018-10_MensRights.jsonl.xz, 1 
+2018-10_SandersForPresident.jsonl.xz, 0 
+2018-10_The_Donald.jsonl.xz, 110 
+2018-10_conspiracy.jsonl.xz, 12 
+2018-10_democrats.jsonl.xz, 0 
+2018-10_politics.jsonl.xz, 245 
+
+2018-11_ChapoTrapHouse.jsonl.xz, 21 
+2018-11_Conservative.jsonl.xz, 30 
+2018-11_KotakuInAction.jsonl.xz, 0 
+2018-11_MensRights.jsonl.xz, 3 
+2018-11_SandersForPresident.jsonl.xz, 0 
+2018-11_The_Donald.jsonl.xz, 98 
+2018-11_conspiracy.jsonl.xz, 15 
+2018-11_democrats.jsonl.xz, 2 
+2018-11_politics.jsonl.xz, 304 
+
+2018-12_ChapoTrapHouse.jsonl, 52 
+2018-12_Conservative.jsonl, 58 
+2018-12_KotakuInAction.jsonl, 2 
+2018-12_MensRights.jsonl, 2 
+2018-12_SandersForPresident.jsonl, 0 
+2018-12_The_Donald.jsonl, 109 
+2018-12_conspiracy.jsonl, 12 
+2018-12_democrats.jsonl, 0 
+2018-12_politics.jsonl, 181 
+
+2019-01_ChapoTrapHouse.jsonl.xz, 23 
+2019-01_Conservative.jsonl.xz, 39 
+2019-01_KotakuInAction.jsonl.xz, 2 
+2019-01_MensRights.jsonl.xz, 0 
+2019-01_SandersForPresident.jsonl.xz, 0 
+2019-01_The_Donald.jsonl.xz, 136 
+2019-01_conspiracy.jsonl.xz, 9 
+2019-01_democrats.jsonl.xz, 0 
+2019-01_politics.jsonl.xz, 256 
+
+2019-02_ChapoTrapHouse.jsonl, 18 
+2019-02_Conservative.jsonl, 11 
+2019-02_KotakuInAction.jsonl, 0 
+2019-02_MensRights.jsonl, 0 
+2019-02_SandersForPresident.jsonl, 0 
+2019-02_The_Donald.jsonl, 86 
+2019-02_conspiracy.jsonl, 6 
+2019-02_democrats.jsonl, 0 
+2019-02_politics.jsonl, 183 
